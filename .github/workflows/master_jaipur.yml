@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'jaipur'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C45D6919FD134F1F8B3CCB7DDFCDE379 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_709C59936B8A44128DA65BEF8AEDAA7F }}
